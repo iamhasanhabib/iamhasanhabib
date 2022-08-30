@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://twitter.com/hasanhabib1234" target="blank"><img src="https://img.shields.io/twitter/follow/hasanhabib1234?logo=twitter&style=for-the-badge" alt="hasanhabib1234" /></a> </p>
 
-- 🌱 I’m currently learning **JS, Python, React**
+- 🌱 I’m currently learning **JS, Node, React**
 
-- 📝 I regularly write articles on [Hasanhabib.com](Hasanhabib.com)
+- 📝 I regularly write articles on [Hasanhabib.com](lalsun.com)
 
-- 💬 Ask me about **HTML5, CSS3, JS, Bootstrap,React,Express.js,Node.js**
+- 💬 Ask me about **HTML5, CSS3, JS, mui,React,Express.js,Node.js**
 
 - 📫 How to reach me **purposework159@gmail.com**
 

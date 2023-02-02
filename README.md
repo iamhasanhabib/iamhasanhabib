@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/hasanhabib1234" target="blank"><img src="https://img.shields.io/twitter/follow/hasanhabib1234?logo=twitter&style=for-the-badge" alt="hasanhabib1234" /></a> </p>
 
-- 🌱 I’m currently learning **JS, Node, React**
+- 🌱 I’m currently learning **JS, Node, React, Redux, Next.js, Tailwind**
 
 - 📝 I regularly write articles on
 

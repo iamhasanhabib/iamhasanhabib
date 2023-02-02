@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **JS, Node, React**
 
-- 📝 I regularly write articles on [Hasanhabib.com](lalsun.com)
+- 📝 I regularly write articles on
 
 - 💬 Ask me about **HTML5, CSS3, JS, mui,React,Express.js,Node.js**
 

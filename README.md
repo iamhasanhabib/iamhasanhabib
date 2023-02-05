@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **JS, Node, React, Redux, Next.js, Tailwind**
 
-- 📝 I'm a fast-learner....
+- 📝 I'm a fast-learner......
 
 - 💬 Ask me about **HTML5, CSS3, JS, mui,React,Express.js,Node.js**
 

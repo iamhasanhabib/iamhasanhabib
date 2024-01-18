@@ -60,13 +60,13 @@
 <br/><br/>
 <hr/>
 <div align="center">
+    <h2>🐍 My Contributions 🐍</h2>
+  <br>
 <img  src="https://raw.githubusercontent.com/iamhasanhabib/iamhasanhabib/output/github-contribution-grid-snake.svg" alt="contribution graph" />
 </div>
 <hr/>
 
 <h3 align="center">
-    <h2>🐍 My Contributions 🐍</h2>
-  <br>
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
 </h3>
 

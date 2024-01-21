@@ -20,6 +20,10 @@
 
 📫 How to reach me **purposework159@gmail.com** & **officialhasanhabib@gmail.com**
 
+:hearts: &emsp;I enjoy programming and sharing knowledge <br/>
+
+:computer: &emsp;Most used line of code `console.log("hello world")` <br/>
+
  ⚡ Fun fact **World first developer was a women**
  
  </div>

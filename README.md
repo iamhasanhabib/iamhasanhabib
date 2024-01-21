@@ -26,9 +26,7 @@
  
  🔭 I’m currently working on **a Nexjs Projects**
  
- 🌱 I’m currently learning **Typescript, Node JS, Express JS, AWS and Leetcode problem solving**
-
- 📚 I'm a quick learner.......
+ 🌱 I'm a quick learner And I’m currently learning **AWS and Leetcode problem solving**
 
  💬 Ask me about **Node.js, React, Next.js, MongoDB...**
 

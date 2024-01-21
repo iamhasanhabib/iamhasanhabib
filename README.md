@@ -62,7 +62,7 @@
 </div>
 
 <br/><br/>
-<h2>🐍 My Contributions 🐍</h2>
+<h2 align="center">🐍 My Contributions 🐍</h2>
   <br>
 <hr/>
 <div align="center">

@@ -25,18 +25,18 @@
 <div align="center">
  
  🔭 I’m currently working on **a Nexjs Projects**
- 
- 🌱 I'm a quick learner And I’m currently learning **AWS and Leetcode problem solving**
 
  💬 Ask me about **Node.js, React, Next.js, MongoDB...**
-
-📫 How to reach me **purposework159@gmail.com** & **officialhasanhabib@gmail.com**
+ 
+ 🌱 I'm a quick learner And I’m currently learning **AWS and Leetcode problem solving**
 
 :hearts: &emsp;I enjoy programming and sharing knowledge <br/>
 
 :computer: &emsp;Most used line of code `console.log("hello world")` <br/>
 
  ⚡ Fun fact **World first developer was a women**
+
+ 📫 How to reach me **purposework159@gmail.com** & **officialhasanhabib@gmail.com**
 
  #### Things I code with
 
